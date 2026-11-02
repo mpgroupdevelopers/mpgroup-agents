@@ -1,0 +1,12 @@
+interface:
+  display_name: "MP Group NMI Checkout"
+  short_description: "Build a test-mode card checkout on MP Group's NMI gateway"
+  default_prompt: "Add a checkout that charges $25 using MP Group's NMI test account."
+
+dependencies:
+  tools:
+    - type: "mcp"
+      value: "nmi-docs"
+      description: "NMI Developer Docs MCP (documentation only, no account or key needed)"
+      transport: "streamable_http"
+      url: "https://docs.nmi.com/mcp"
