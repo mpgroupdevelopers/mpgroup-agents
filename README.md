@@ -6,7 +6,7 @@ Add MP Group card payments to an app by handing your coding agent one link.
 
 Paste this into Codex, Claude Code, Cursor, or another coding agent:
 
-> Read https://raw.githubusercontent.com/YOUR-GITHUB-NAME/mpgroup-agents/main/payments.md and use it to add MP Group payments to this app.
+> Read https://raw.githubusercontent.com/mpgroupdevelopers/mpgroup-agents/main/payments.md and use it to add MP Group payments to this app.
 
 Your agent builds a test-mode checkout ($25 one-time card sale) using NMI's secure payment form. No real money moves.
 
