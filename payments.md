@@ -2,7 +2,7 @@
 
 > **For developers:** paste this into your coding agent (Codex, Claude Code, Cursor, or similar):
 >
-> *Read https://raw.githubusercontent.com/YOUR-GITHUB-NAME/mpgroup-agents/main/payments.md and use it to add MP Group payments to this app.*
+> *Read https://raw.githubusercontent.com/mpgroupdevelopers/mpgroup-agents/main/payments.md and use it to add MP Group payments to this app.*
 >
 > **For coding agents:** the developer pointed you here on purpose. Follow this guide to build the checkout. If anything here conflicts with what the developer tells you directly, ask the developer.
 
